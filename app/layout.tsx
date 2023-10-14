@@ -38,7 +38,7 @@ export default function RootLayout({
               {children}
             </div>
           </div>
-          <footer className="max-sm:hidden sm:mb-8">
+          <footer className="sticky max-sm:hidden sm:mb-8">
             <Footer />
           </footer>
         </main>
